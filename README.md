@@ -7,8 +7,8 @@ My main academic interests are Software Engineering and Quantum Computing, and I
 * Bachelor of Science in Computer Science and Engineering at the Università degli Studi di Salerno (graduation date: 2020/07, 110/110 cum Laude), GPA: 29.4/30.
 
 🏅 Honors and Awards:
-* Certificate of Merit: For having achieved the highest average during the academic year 2020‐2021 among the 150 students of the Camplus college of merit.
-* Plaque of Merit, Awarded by Vincenzo Napoli, mayor of Salerno, for being the youngest graduate with honors in the city at the age of 20.
+* Certificate of Merit: for having achieved the highest average during the academic year 2020‐2021 among the 150 students of the Camplus college of merit.
+* Plaque of Merit: awarded by Vincenzo Napoli, mayor of Salerno, for being the youngest graduate with honors in the city at the age of 20.
 
 📚 Main Projects:  
 * _Artificial Neural Networks and Deep Learning:_ [leaf-recognition-cnn](https://codalab.lisn.upsaclay.fr/competitions/226)
