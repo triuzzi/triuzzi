@@ -19,7 +19,7 @@ My main academic interests are Software Engineering and Quantum Computing, and I
 * _Advanced Algorithms and Parallel Programming:_ karger-stein-adjacency-matrix-optimization
 
 📌 Extracurricular Projects:
-* Backon, an iOS application to support individual volunteering[First version](https://github.com/triuzzi/BackOn), [Serverless](https://github.com/triuzzi/ServerlessBackOn), [Remake](https://github.com/triuzzi/BackOnReloaded)
+* Backon, an iOS application to support individual volunteering [First version](https://github.com/triuzzi/BackOn), [Serverless](https://github.com/triuzzi/ServerlessBackOn), [Remake](https://github.com/triuzzi/BackOnReloaded)
 * Research Thesis in Quantum Computing: "Quantum Molecular Docking"
 
 📫 Contacts:
