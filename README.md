@@ -25,3 +25,7 @@ My main academic interests are Software Engineering and Quantum Computing, and I
 📫 Contacts:
 * [Mail](mailto:emanueletriuzzigmail.com)
 * [LinkedIn](https://www.linkedin.com/in/etriuzzi/)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=triuzzi)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=triuzzi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
