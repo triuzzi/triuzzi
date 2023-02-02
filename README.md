@@ -42,5 +42,5 @@ As someone who pays close attention to detail and is fully invested in my work, 
 * **Patent registration** for the innovative approach to the molecular dockign task
 
 ### 📫 Contacts
-* [Mail](mailto:emanueletriuzzigmail.com)
-* [LinkedIn](https://www.linkedin.com/in/etriuzzi/)
+* [Mail](mailto:emanueletriuzzi@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/triuzzi/)
