@@ -39,7 +39,7 @@ As someone who pays close attention to detail and is fully invested in my work, 
 ### 📌 Extracurricular Projects
 * Backon, an iOS application to support individual volunteering [First version](https://github.com/triuzzi/BackOn), [Serverless](https://github.com/triuzzi/ServerlessBackOn), [Remake](https://github.com/triuzzi/BackOnReloaded)
 * Research Thesis in Quantum Computing: "Quantum Molecular Docking via Weighted Subgraph Isomorphism"
-* **Patent registration** for the innovative approach to the molecular dockign task
+* **Patent registration** for the innovative approach to the molecular docking task
 
 ### 📫 Contacts
 * [Mail](mailto:emanueletriuzzi@gmail.com)
